@@ -1,2 +1,2 @@
-# heroku-mongo
-Shopping cart using mongodb
+# heroku-shoppingcart
+Shopping cart app
